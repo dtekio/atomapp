@@ -1,14 +1,15 @@
+.starterDescription {
+    margin: 16rem 1rem 16rem auto;
+}
+
+.starterImg {
+    margin:auto;
+} 
+
 .navbar {
     z-index: 222;
 }
 
-.starter-desc {
-    margin: 16rem auto;
-}
-
-.starter-img {
-    margin:auto;
-} 
 
 
 .pendulum {
